@@ -9,6 +9,9 @@ Common optimizations include:
 
 ## Usage
 
-- Follow the steps at https://graphite.dev/docs/stacking-and-ci#how-to-set-up-ci-optimizations for setup instructions for this action.
+- Follow the steps at
+  https://graphite.dev/docs/stacking-and-ci#how-to-set-up-ci-optimizations for
+  setup instructions for this action.
 
-- If you encounter issues, reach out to us at https://graphite.dev/docs/feature-requests-bugs.
+- If you encounter issues, reach out to us at
+  https://graphite.dev/docs/feature-requests-bugs.
