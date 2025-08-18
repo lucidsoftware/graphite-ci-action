@@ -9,20 +9,6 @@ Common optimizations include:
 
 ## Usage
 
-1. First, get your CI token from https://app.graphite.dev/ci
+- Follow the steps at https://graphite.dev/docs/stacking-and-ci#how-to-set-up-ci-optimizations for setup instructions for this action.
 
-1. Then, add the CI step to your workflow file:
-
-```yml
-steps:
-  - name: Checkout
-    uses: withgraphite/graphite-ci-action@main
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      graphite_token: 'XXX'
-```
-
-To instead use a
-[specific version](https://github.com/withgraphite/graphite-ci-action/tags) of
-this action, replace `@main` with `@v1.0` (or whatever the current latest
-version is).
+- If you encounter issues, reach out to us at https://graphite.dev/docs/feature-requests-bugs.
